@@ -1,0 +1,6 @@
+x64/
+.vs/
+OpenDriver.sln
+OpenDriver/OpenDriver.vcxproj
+OpenDriver/OpenDriver.vcxproj.filters
+OpenDriver/OpenDriver.vcxproj.user
